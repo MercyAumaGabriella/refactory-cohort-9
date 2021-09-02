@@ -1,0 +1,15 @@
+.col{
+    border: 2px;
+    border-style: dotted;
+}
+
+#inner-row{
+    border: 2px;
+    border-style: double;
+    background-color: aquamarine;
+}
+
+.container{
+    border: 2px;
+    border-style: groove;
+}
